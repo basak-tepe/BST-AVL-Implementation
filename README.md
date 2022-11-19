@@ -1,2 +1,2 @@
 # BST-AVL-Implementation
-Binary Search Tree(BST) and Adelson-Velskii and Landis (AVL) Tree implementations I made for my Data Structures and Algorithms course.
+Binary Search Tree(BST) and Adelson-Velskii and Landis (AVL) Tree implementations I made for my Data Structures and Algorithms course. These structures are implemented to represent a communication network/internet of devices. Nodes are represented as IP addresses electronical devices. Main goal was to send messages between 2 nodes and record the path as the message transaction is made (i.e recording each node travelled). Implemented methods are add, delete, find and sendMessage. 
